@@ -544,11 +544,11 @@
     {
       "prefix": 63,
       "network": "hydradx",
-      "displayName": "HydraDX",
+      "displayName": "Hydration",
       "symbols": ["HDX"],
       "decimals": [12],
       "standardAccount": "*25519",
-      "website": "https://hydradx.io"
+      "website": "https://hydration.net"
     },
     {
       "prefix": 65,
@@ -1028,6 +1028,15 @@
       "website": "https://logion.network"
     },
     {
+      "prefix": 2024,
+      "network": "vow-chain",
+      "displayName": "Enigmatic Smile",
+      "symbols": ["VOW"],
+      "decimals": [18],
+      "standardAccount": "*25519",
+      "website": "https://www.vow.foundation/"
+    },
+    {
       "prefix": 2032,
       "network": "interlay",
       "displayName": "Interlay",
@@ -1137,12 +1146,12 @@
     },
     {
       "prefix": 6094,
-      "network": "subspace",
-      "displayName": "Subspace",
-      "symbols": ["SSC"],
+      "network": "autonomys",
+      "displayName": "Autonomys",
+      "symbols": ["AI3"],
       "decimals": [18],
       "standardAccount": "*25519",
-      "website": "https://subspace.network"
+      "website": "https://autonomys.xyz"
     },
     {
       "prefix": 7007,
@@ -1298,6 +1307,15 @@
       "website": "https://nftmart.io"
     },
     {
+      "prefix": 12850,
+      "network": "analog-timechain",
+      "displayName": "Analog Timechain",
+      "symbols": ["ANLOG"],
+      "decimals": [12],
+      "standardAccount": "*25519",
+      "website": "https://analog.one"
+    },
+    {
       "prefix": 13116,
       "network": "bittensor",
       "displayName": "Bittensor",
@@ -1316,6 +1334,15 @@
       "website": "https://goro.network"
     },
     {
+      "prefix": 14998,
+        "network": "mosaic-chain",
+        "displayName": "Mosaic Chain",
+        "symbols": ["MOS"],
+        "decimals": [18],
+        "standardAccount": "*25519",
+        "website": "https://mosaicchain.io"
+      },
+      {
       "prefix": 29972,
       "network": "mythos",
       "displayName": "Mythos",
@@ -1323,6 +1350,15 @@
       "decimals": [18],
       "standardAccount": "secp256k1",
       "website": "https://mythos.foundation"
+    },
+    {
+      "prefix": 8888,
+      "network": "xcavate",
+      "displayName": "Xcavate Protocol",
+      "symbols": ["XCAV"],
+      "decimals": [12],
+      "standardAccount": "*25519",
+      "website": "https://xcavate.io/"
     }
   ]
 }
